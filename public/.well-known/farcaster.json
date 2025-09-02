@@ -10,14 +10,14 @@
     "subtitle": "Built with Zara",
     "description": "Minikit Verify is a Base Mini App built with Zara.",
     "iconUrl": "https://0co.to/images/zara-2.png",
-    "homeUrl": "https://minikit-verify.vistara.dev",
-    "splashImageUrl": "https://dummyimage.com/200x200/0a0b0d/ffffff.png&text=Splash",
+    "homeUrl": "https://minikitverify-5ja7-dzmkinj9f-vistara.vercel.app",
+    "splashImageUrl": "https://minikitverify-5ja7-dzmkinj9f-vistara.vercel.app/splash.png",
     "splashBackgroundColor": "#000000",
-    "heroImageUrl": "https://dummyimage.com/1200x628/0a0b0d/ffffff.png&text=Hero",
+    "heroImageUrl": "https://minikitverify-5ja7-dzmkinj9f-vistara.vercel.app/image.png",
     "tagline": "Minikit Verify",
     "screenshotUrls": [
-      "https://dummyimage.com/1200x628/0a0b0d/ffffff.png&text=Shot1",
-      "https://dummyimage.com/1200x628/0a0b0d/ffffff.png&text=Shot2"
+      "https://minikitverify-5ja7-dzmkinj9f-vistara.vercel.app/screenshot.png",
+      "https://minikitverify-5ja7-dzmkinj9f-vistara.vercel.app/screenshot.png"
     ],
     "primaryCategory": "social",
     "tags": [
@@ -25,6 +25,6 @@
       "miniapp",
       "onchainkit"
     ],
-    "webhookUrl": "https://minikit-verify.vistara.dev/api/webhook"
+    "webhookUrl": "https://minikitverify-5ja7-dzmkinj9f-vistara.vercel.app/api/webhook"
   }
 }
